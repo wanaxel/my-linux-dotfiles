@@ -6,4 +6,4 @@ this is basically just bunch of configurations for my arch linux system using kd
 
 
 feel free to use it as well
-# my-linux-dotfiles
+
